@@ -30,6 +30,4 @@ def translate(y):
 
 
 
-print(translate("... --- ... / "))
-print(type(morse_code))
 
